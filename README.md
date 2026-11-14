@@ -112,29 +112,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=smerfan0009-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="Erfan's GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=smerfan0009-sys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=smerfan0009-sys&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
