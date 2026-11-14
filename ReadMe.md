@@ -104,6 +104,27 @@ A web application for exploring development technologies and building a personal
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=smerfan0009-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=smerfan0009-sys&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=smerfan0009-sys&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=smerfan0009-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Erfan's GitHub Statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smerfan0009-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Erfan's Top Languages" />
 </p>
